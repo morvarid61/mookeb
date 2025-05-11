@@ -1,4 +1,4 @@
-import"./tailwind-G8OZXPCG.js";let c=(...n)=>{n.forEach(e=>{document.querySelector("#root").insertAdjacentHTML("beforeend",e)})},i=`<div class="flax justify-center items-center h-screen ">
+import"./tailwind-Biu5Z5Ce.js";let c=(...n)=>{n.forEach(e=>{document.querySelector("#root").insertAdjacentHTML("beforeend",e)})},i=`<div class="flax justify-center items-center h-screen ">
         <div>
           <h1 class="sm:text-[60px] md:text-[80px]  sm:w-full lg:w-full  text-white text-center p-4">
             السلام علیک یا ابا عبدالله
@@ -8,7 +8,7 @@ import"./tailwind-G8OZXPCG.js";let c=(...n)=>{n.forEach(e=>{document.querySelect
         <div>
           <img
             class="w-[250px] m-auto pb-4"
-            src="./src/image/logo.svg"
+            src="../../image/logo.svg"
             alt="/>
         </div>
         <div class="">
