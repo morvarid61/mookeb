@@ -1,4 +1,4 @@
-import"./tailwind-CHbEEOQE.js";let l=(...n)=>{n.forEach(e=>{document.querySelector("#root").insertAdjacentHTML("beforeend",e)})},i=`<div class="flax justify-center items-center h-screen">
+import"./tailwind-DQQMTdk5.js";let l=(...n)=>{n.forEach(e=>{document.querySelector("#root").insertAdjacentHTML("beforeend",e)})},i=`<div class="flax justify-center items-center h-screen">
         <div>
           <h1 class="w-full text-[80px] text-white text-center p-4">
             السلام علیک یا ابا عبدالله
