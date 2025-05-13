@@ -1,16 +1,17 @@
-import"./tailwind-Biu5Z5Ce.js";let c=(...n)=>{n.forEach(e=>{document.querySelector("#root").insertAdjacentHTML("beforeend",e)})},i=`<div class="flax justify-center items-center h-screen ">
+import"./tailwind-DzVgQcav.js";let c=(...n)=>{n.forEach(e=>{document.querySelector("#root").insertAdjacentHTML("beforeend",e)})},i=`<div class="flax justify-center items-center h-screen ">
         <div>
           <h1 class="sm:text-[60px] md:text-[80px]  sm:w-full lg:w-full  text-white text-center p-4">
             السلام علیک یا ابا عبدالله
           </h1>
         </div>
 
-        <div>
+       <div>
           <img
             class="w-[250px] m-auto pb-4"
-            src="../../image/logo.svg"
-            alt="/>
+            src="./src/image/logo.svg"
+            alt=""/>
         </div>
+    
         <div class="">
           <div class="sm:w-[300px] md:w-[400px] lg:w-[600px] xl:w-[800px]  sm:m-auto pt-4 h-[100px]" id="Countdown  ">
             <div
